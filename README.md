@@ -11,3 +11,15 @@ Projects developed from Android Basics in Kotlin
 </p>
 
 <hr>
+
+<h2 style="text-align: center;">
+    Dice Roller App
+</h2>
+<p align="center"> 
+Displaying the appropriate sided dice for the number of side that was rolled by clicking in the button "ROLL".
+</p>
+<p align="center">
+    <img src="assets/DiceRollerApp.gif">
+</p>
+
+<hr>
